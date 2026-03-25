@@ -1,0 +1,20 @@
+
+h1 {
+     font-size: 3.2em;
+     color:#A5B4FC;
+     font-family: "Montserrat";
+     font-style: normal;
+}
+h2{
+     font-size: 3em;
+     color:#A5B4FC;
+     font-family: "Montserrat";
+    
+ }
+p{
+    font-size: 1.5em;
+     font-family: "Manrope";
+     font-optical-sizing: auto;
+    text-align: justify;
+}
+
